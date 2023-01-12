@@ -1,5 +1,14 @@
 [
   {
+    "id": "dutmoticon_000",
+    "title": "Dutmoticon",
+    "image": {
+      "id": "63c022ed74efb7790c302824",
+      "filename": "7o3xlfnwlct89jls22h7a2c9438udxua",
+      "imageType": "svg"
+    }
+  },
+  {
     "id": "dutmoticon_001",
     "title": "통합 그림판 동물콘",
     "image": {
@@ -14,15 +23,6 @@
     "image": {
       "id": "63beb9ed67fe0823f5d98827",
       "filename": "9r5xd0r6lcrp8skk073pf1cfe48tfp27",
-      "imageType": "svg"
-    }
-  },
-  {
-    "id": "dutmoticon_999",
-    "title": "Dutmoticon",
-    "image": {
-      "id": "63c022ed74efb7790c302824",
-      "filename": "7o3xlfnwlct89jls22h7a2c9438udxua",
       "imageType": "svg"
     }
   }
